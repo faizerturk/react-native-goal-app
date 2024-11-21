@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-v1",
-    "slug": "react-native-v1",
+    "name": "react-native-goal-app",
+    "slug": "react-native-goal-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
